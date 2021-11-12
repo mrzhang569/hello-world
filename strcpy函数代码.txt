@@ -9,3 +9,7 @@ char *strCpy(char* src)
 dst[len]='\0'
 return dst;
 }
+/**
+
+远程edit
+**/
